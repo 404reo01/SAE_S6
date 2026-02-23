@@ -6,7 +6,7 @@ import matplotlib.colors as mcolors
 # ─────────────────────────────────────────────
 # 1. LECTURE DU FICHIER
 # ─────────────────────────────────────────────
-
+ 
 def lire_points(fichier):
     points = []
     with open(fichier, 'r') as f:
