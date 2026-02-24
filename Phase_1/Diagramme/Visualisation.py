@@ -3,6 +3,7 @@ from matplotlib.patches import Rectangle
 from random import shuffle
 import time
 
+
 class Visualisation:
     def __init__(self, xmin, xmax, ymin, ymax, N):
         self.xmin = xmin
@@ -47,5 +48,5 @@ class Visualisation:
         tac = time.time()
         print(f"Temps de calcul et dessin : {tac - tic:.3f} secondes")
 
-        fig.savefig('voronoi_refacto.png')
+        fig.savefig('resultats/phase1/voronoi.png')
         show()
