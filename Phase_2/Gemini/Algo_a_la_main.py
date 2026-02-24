@@ -92,7 +92,7 @@ for P in PPP :
 tac = time.time()
 
 
-fig.savefig('voronoi.png')
+fig.savefig('resultats/phase2/Gemini/voronoi.png')
 # Affiche le graphique
 show()
 
