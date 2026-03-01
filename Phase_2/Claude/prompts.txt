@@ -1,3 +1,5 @@
+Voici l'ensemble des prompts que j'ai utilisé
+
 1. "Je dois realiser une application qui permet de déterminer un diagramme de Voronoï à partir d'une liste de points du plan, et permettre sa visualisation. Je souhaite d'abord discuter de la structure et des differentes manieres de le realiser. Pour commencer, saches qu'il y a fichier .txt content les coordonnes des differents points. Je dois coder en python"
 
 2. "c'est un projet académique ou il est préférable d'implémenter l'algorithme par moi-meme, d'abord quels sont les difficultés que tu pourrais rencontrer par rapport aux algorithmes ?"
@@ -51,7 +53,3 @@
 26. "aucunes erreurs parfait …" *(21 tests OK)*
 
 27. "genreres moi un fichier git ignore"
-
-28. "fais moi un recap du prompt initial que j'ai fait le contexte et comment nous avons procédé pour réaliser ce projet"
-
-29. **Ce message** — "non je veux les prompts que je t'ai demandé plus precisement pas un resumé"
