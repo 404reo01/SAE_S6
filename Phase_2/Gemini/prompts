@@ -1,0 +1,17 @@
+J'ai envoyé le pdf et j'ai dis : Vous avez dit
+je suis à la phase 2 de ce projet, je dois donc coder un algorithme de Fortune pour tracer un diagramme de voronoi, 
+le code devra donc respecter les bonnes pratiques et on devra faire une serie de test pour comparer avec l'algo que j'ai fais a la main,
+ avant de commencer a coder discutons de comment s'y prendre pour mener a bien l'exercice puis quand j'aurais validé on pourra 
+ implementer notre algorithme, n'hesite pas a me poser les questions necessaire a ta comprehension du sujet pour qu'on puisse se 
+ l'approprier, on fera ça etape par etape avec des explications a chaque fois pour que je garde le contrrole sur le projet.
+
+
+ Ensuite il m'a posé des questions et on a discuté  puis j'ai précisé : on va utiliser python pour le faire plutot, pour la structure discutons en et pour la visualisation il faudrait pouvoir exporter en svg, pour les tests oui il faut des tests unitaires et pour l'implemen,tation il faut etre le plus efficace possible
+
+ Ensuite j'ai dis : pour la visualisation utilsie tkinter, et pour l'algo tu peux utiliser un arbre classique pour reduire les risques de bugs car c'est plutot difficile, pas besoin de faire l'algo le plus optimisé il faut juste qu'il soit meilleur que l'algo de calcuil de distance : 
+ et j'ai envoyé l'algo a la main pour qu'il puisse le voir
+
+ Ensuite j'ai précisé :  on doit pouvoir prendre nos données depuis un fichier txt classique avec pour chaque ligne un tuple separé par une virgule, je penses que si tout est clair nous pouvons commencer
+
+ Ensuite la phase de developpement à commencé et j'ai pris 30 min à finir le projet car j'ai dû ajusté quelques details. On a fait le projet étape par étape et j'ai validé chaque bout de code qu'il m'a envoyé, j'ai dû en renvoyé certains pour qu'il le refasse quand il y avait des bugs. J'ai refusé chacun de ses messages qui m'envoyaient trop de code d'un coup car sinon on melangeait tout.
+
