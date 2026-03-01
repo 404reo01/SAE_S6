@@ -346,5 +346,7 @@ Ce benchmark illustre bien l'intérêt d'utiliser des algorithmes optimisés et 
 
 Grâce a l'ia, j'ai pu avoir une application bien structurer avec des tests et un algorithme de perfomance. Cependant l'ia (Deepseek), avait beaucoup d'halucinations donc il fallait recoriger les prompt deriere.
 
+Voici le lien de conversation : 
 
+https://chat.deepseek.com/share/wvya5ad5804wcqrxnt
 
