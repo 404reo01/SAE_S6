@@ -1,0 +1,57 @@
+1. "Je dois realiser une application qui permet de déterminer un diagramme de Voronoï à partir d'une liste de points du plan, et permettre sa visualisation. Je souhaite d'abord discuter de la structure et des differentes manieres de le realiser. Pour commencer, saches qu'il y a fichier .txt content les coordonnes des differents points. Je dois coder en python"
+
+2. "c'est un projet académique ou il est préférable d'implémenter l'algorithme par moi-meme, d'abord quels sont les difficultés que tu pourrais rencontrer par rapport aux algorithmes ?"
+
+3. "allons pour l'approche avec la triangulation de delaunay"
+
+4. "le voici : 2,4 / 5.3,4.5 / 18,29 / 12.5,23.7" *(format du fichier .txt)*
+
+5. "d'accord cet ordre me convient" *(validation de l'ordre des étapes)*
+
+6. "l'affichage est correct nous pouvons passer a la suite"
+
+7. "parfait passons a la suite"
+
+8. "voici le fichier d'origine : 2,4 / 5.3,4.5 / 18,19 / 12.5,13.7 / 5,8 / 7,9 / 13,6 / 9,3"
+
+9. "voci le resultat : Nombre de triangles : 3 …" *(résultat inattendu)*
+
+10. "voila ce que j'ai : Nombre de points lus : 8 …" *(après correction du fichier)*
+
+11. "parfait passons a la suite"
+
+12. "voici les resultats : Nombre de sommets de Voronoï : 9 …"
+
+13. "tout est bien installé, mtn observe le diagramme" *(première visualisation)*
+
+14. "choisissons l'option complete" *(pour les arêtes semi-infinies)*
+
+15. "regarde" *(après chaque tentative de correction de l'orientation)*
+
+16. "voici toute la console" *(debug des arêtes frontières)*
+
+17. "regardes" / "regarde mtn" *(itérations successives)*
+
+18. "parfait" *(validation du diagramme final)*
+
+19. "je veux tous ces ajouts" *(couleurs + interactivité + légende)*
+
+20. "voila ce que j'obtiens + le code est brouillon rearrange en supprimant les fonctions obsoletes et appels inutiles"
+
+21. "regardes le resultat, les zones coloriées ne correspondent pas aux zones délimitées par les arretes"
+
+22. "parfait" *(validation finale du diagramme)*
+
+23. "je veux que le resultat, le diagramme pur juste les couleurs soit exportées sur un fichier svg"
+
+24. "ok super, combien de temps a t on passé a corriger ensemble ?"
+
+25. "aides moi a creer un fichier de tests"
+
+26. "aucunes erreurs parfait …" *(21 tests OK)*
+
+27. "genreres moi un fichier git ignore"
+
+28. "fais moi un recap du prompt initial que j'ai fait le contexte et comment nous avons procédé pour réaliser ce projet"
+
+29. **Ce message** — "non je veux les prompts que je t'ai demandé plus precisement pas un resumé"
